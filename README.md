@@ -1,3 +1,6 @@
+#リンク
+https://sample-app-aey1.onrender.com
+
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。
